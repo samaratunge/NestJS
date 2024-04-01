@@ -1,0 +1,1 @@
+export const MONGO_CONNECTION = "mongodb+srv://udara:Udara@#1@udaracluster.nehrqth.mongodb.net/";
